@@ -1,2 +1,1 @@
-# FFX-Guide
-A detailed guide for Final Fantasy X HD Remaster
+# Go to the wiki page to see the guide!
